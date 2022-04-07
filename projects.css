@@ -21,7 +21,6 @@ li a {
     li a:hover {
         transition: all .25s ease-out;
         background-color: dodgerblue;
-        transform: scale(10,10);
         color: white;
     }
 

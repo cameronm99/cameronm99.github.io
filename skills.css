@@ -4,7 +4,7 @@
     background-color: crimson;
 }
 
-ul {
+#navbar {
     list-style-type: none;
     padding-top: 40px;
 }
@@ -21,7 +21,6 @@ li a {
     li a:hover {
         transition: all .25s ease-out;
         background-color: dodgerblue;
-        transform: scale(10,10);
         color: white;
     }
 
@@ -51,6 +50,32 @@ footer {
 
 #Skills
 {
-    list-style-type: square;
+    font-size:25px;
+    display:block;
 }
 
+div {
+    display: block;
+    margin: 150px 30% 150px 30%;
+    background-color: aliceblue;
+    list-style: circle;
+}
+
+.skillitems
+{
+    display:block;
+    line-height:200%;
+
+}
+
+h1 {
+    text-align: center;
+    font-size: 40px;
+    
+}
+
+#checkmark
+{
+    color:lawngreen;
+    float:right;
+}
