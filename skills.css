@@ -5,3 +5,12 @@
 li a {
     text-decoration: none;
 }
+
+#Skills
+{
+    list-style-type: square;
+}
+
+body {
+    background-color: beige;
+}

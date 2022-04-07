@@ -12,3 +12,7 @@ iframe
     width: 50%;
     height: 750px;
 }
+
+body {
+    background-color: beige;
+}
